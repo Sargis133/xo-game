@@ -9,7 +9,7 @@ const router = createRouter({
             component: Index,
         },
     ],
-    history: createWebHistory()
+    history: createWebHistory('/xo-game')
 })
 export default router
 
